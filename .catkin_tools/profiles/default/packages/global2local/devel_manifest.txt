@@ -1,0 +1,4 @@
+global2local
+/home/mathias/git/ai4/devel/.private/global2local/lib/pkgconfig/global2local.pc /home/mathias/git/ai4/devel/lib/pkgconfig/global2local.pc
+/home/mathias/git/ai4/devel/.private/global2local/share/global2local/cmake/global2localConfig.cmake /home/mathias/git/ai4/devel/share/global2local/cmake/global2localConfig.cmake
+/home/mathias/git/ai4/devel/.private/global2local/share/global2local/cmake/global2localConfig-version.cmake /home/mathias/git/ai4/devel/share/global2local/cmake/global2localConfig-version.cmake

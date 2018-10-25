@@ -1,0 +1,14 @@
+<!-- launch file -->
+
+<launch>
+
+	<!-- node pkg="rosbag" name="rosbag_record" type="record" args="-a"/ -->
+
+	<node pkg="mavlink_lora" type="mavlink_lora_node" name="mavlink_lora" respawn="true" output="screen">
+		<param name="serial_device" value="/dev/ttyUSB0"/>
+		<param name="serial_baudrate" value="57600"/>
+	</node>
+	<node pkg="mavlink_lora" type="drone_modes_publisher.py" name="drone_modes_publisher" output="screen"></node>
+	<node pkg="mavlink_lora" type="local_setpoints_pub.py" name="local_setpoints_pub" output="screen"></node>
+</launch>
+

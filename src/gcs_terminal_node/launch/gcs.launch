@@ -1,0 +1,9 @@
+<!-- launch file -->
+
+<launch>
+ 	<node pkg="mavlink_lora" type="gcs_keypress.py" name="gcs_keypress" output="screen"></node>
+ 	<node pkg="gcs_terminal_node" type="gcs_node.py" name="gcs_node" output="screen"></node>
+	<node pkg="gcs_terminal_node" type="send_heartbeat.py" name="gcs_heartbeat" output="screen"></node>
+	<node pkg="global2local" type="global2local_publisher.py" name="global2local_node" output="screen"></node>
+</launch>
+

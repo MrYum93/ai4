@@ -1,0 +1,4 @@
+offboard_node
+/home/mathias/git/ai4/devel/.private/offboard_node/lib/pkgconfig/offboard_node.pc /home/mathias/git/ai4/devel/lib/pkgconfig/offboard_node.pc
+/home/mathias/git/ai4/devel/.private/offboard_node/share/offboard_node/cmake/offboard_nodeConfig-version.cmake /home/mathias/git/ai4/devel/share/offboard_node/cmake/offboard_nodeConfig-version.cmake
+/home/mathias/git/ai4/devel/.private/offboard_node/share/offboard_node/cmake/offboard_nodeConfig.cmake /home/mathias/git/ai4/devel/share/offboard_node/cmake/offboard_nodeConfig.cmake

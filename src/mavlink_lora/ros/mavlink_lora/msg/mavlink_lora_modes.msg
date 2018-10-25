@@ -1,0 +1,6 @@
+Header header
+uint8 custom_main_mode
+string custom_main_mode_str
+uint8 custom_sub_mode_auto
+string custom_sub_mode_auto_str
+

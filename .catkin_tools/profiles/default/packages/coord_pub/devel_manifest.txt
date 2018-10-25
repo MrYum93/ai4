@@ -1,0 +1,19 @@
+coord_pub
+/home/mathias/git/ai4/devel/.private/coord_pub/include/coord_pub/coordList.h /home/mathias/git/ai4/devel/include/coord_pub/coordList.h
+/home/mathias/git/ai4/devel/.private/coord_pub/lib/pkgconfig/coord_pub.pc /home/mathias/git/ai4/devel/lib/pkgconfig/coord_pub.pc
+/home/mathias/git/ai4/devel/.private/coord_pub/lib/python2.7/dist-packages/coord_pub/__init__.py /home/mathias/git/ai4/devel/lib/python2.7/dist-packages/coord_pub/__init__.py
+/home/mathias/git/ai4/devel/.private/coord_pub/lib/python2.7/dist-packages/coord_pub/msg/_coordList.py /home/mathias/git/ai4/devel/lib/python2.7/dist-packages/coord_pub/msg/_coordList.py
+/home/mathias/git/ai4/devel/.private/coord_pub/lib/python2.7/dist-packages/coord_pub/msg/__init__.py /home/mathias/git/ai4/devel/lib/python2.7/dist-packages/coord_pub/msg/__init__.py
+/home/mathias/git/ai4/devel/.private/coord_pub/share/coord_pub/cmake/coord_pubConfig.cmake /home/mathias/git/ai4/devel/share/coord_pub/cmake/coord_pubConfig.cmake
+/home/mathias/git/ai4/devel/.private/coord_pub/share/coord_pub/cmake/coord_pubConfig-version.cmake /home/mathias/git/ai4/devel/share/coord_pub/cmake/coord_pubConfig-version.cmake
+/home/mathias/git/ai4/devel/.private/coord_pub/share/coord_pub/cmake/coord_pub-msg-extras.cmake /home/mathias/git/ai4/devel/share/coord_pub/cmake/coord_pub-msg-extras.cmake
+/home/mathias/git/ai4/devel/.private/coord_pub/share/coord_pub/cmake/coord_pub-msg-paths.cmake /home/mathias/git/ai4/devel/share/coord_pub/cmake/coord_pub-msg-paths.cmake
+/home/mathias/git/ai4/devel/.private/coord_pub/share/roseus/ros/coord_pub/manifest.l /home/mathias/git/ai4/devel/share/roseus/ros/coord_pub/manifest.l
+/home/mathias/git/ai4/devel/.private/coord_pub/share/roseus/ros/coord_pub/msg/coordList.l /home/mathias/git/ai4/devel/share/roseus/ros/coord_pub/msg/coordList.l
+/home/mathias/git/ai4/devel/.private/coord_pub/share/common-lisp/ros/coord_pub/msg/_package.lisp /home/mathias/git/ai4/devel/share/common-lisp/ros/coord_pub/msg/_package.lisp
+/home/mathias/git/ai4/devel/.private/coord_pub/share/common-lisp/ros/coord_pub/msg/coord_pub-msg.asd /home/mathias/git/ai4/devel/share/common-lisp/ros/coord_pub/msg/coord_pub-msg.asd
+/home/mathias/git/ai4/devel/.private/coord_pub/share/common-lisp/ros/coord_pub/msg/_package_coordList.lisp /home/mathias/git/ai4/devel/share/common-lisp/ros/coord_pub/msg/_package_coordList.lisp
+/home/mathias/git/ai4/devel/.private/coord_pub/share/common-lisp/ros/coord_pub/msg/coordList.lisp /home/mathias/git/ai4/devel/share/common-lisp/ros/coord_pub/msg/coordList.lisp
+/home/mathias/git/ai4/devel/.private/coord_pub/share/gennodejs/ros/coord_pub/_index.js /home/mathias/git/ai4/devel/share/gennodejs/ros/coord_pub/_index.js
+/home/mathias/git/ai4/devel/.private/coord_pub/share/gennodejs/ros/coord_pub/msg/_index.js /home/mathias/git/ai4/devel/share/gennodejs/ros/coord_pub/msg/_index.js
+/home/mathias/git/ai4/devel/.private/coord_pub/share/gennodejs/ros/coord_pub/msg/coordList.js /home/mathias/git/ai4/devel/share/gennodejs/ros/coord_pub/msg/coordList.js

@@ -1,0 +1,23 @@
+drone_command_handler
+/home/mathias/git/ai4/devel/.private/drone_command_handler/bin/test_local_position_publisher.py /home/mathias/git/ai4/devel/bin/test_local_position_publisher.py
+/home/mathias/git/ai4/devel/.private/drone_command_handler/bin/local_setpoint_manual_service_server.py /home/mathias/git/ai4/devel/bin/local_setpoint_manual_service_server.py
+/home/mathias/git/ai4/devel/.private/drone_command_handler/include/drone_command_handler/setpoint.h /home/mathias/git/ai4/devel/include/drone_command_handler/setpoint.h
+/home/mathias/git/ai4/devel/.private/drone_command_handler/include/drone_command_handler/setpointRequest.h /home/mathias/git/ai4/devel/include/drone_command_handler/setpointRequest.h
+/home/mathias/git/ai4/devel/.private/drone_command_handler/include/drone_command_handler/setpointResponse.h /home/mathias/git/ai4/devel/include/drone_command_handler/setpointResponse.h
+/home/mathias/git/ai4/devel/.private/drone_command_handler/lib/pkgconfig/drone_command_handler.pc /home/mathias/git/ai4/devel/lib/pkgconfig/drone_command_handler.pc
+/home/mathias/git/ai4/devel/.private/drone_command_handler/lib/python2.7/dist-packages/drone_command_handler/__init__.py /home/mathias/git/ai4/devel/lib/python2.7/dist-packages/drone_command_handler/__init__.py
+/home/mathias/git/ai4/devel/.private/drone_command_handler/lib/python2.7/dist-packages/drone_command_handler/srv/_setpoint.py /home/mathias/git/ai4/devel/lib/python2.7/dist-packages/drone_command_handler/srv/_setpoint.py
+/home/mathias/git/ai4/devel/.private/drone_command_handler/lib/python2.7/dist-packages/drone_command_handler/srv/__init__.py /home/mathias/git/ai4/devel/lib/python2.7/dist-packages/drone_command_handler/srv/__init__.py
+/home/mathias/git/ai4/devel/.private/drone_command_handler/share/roseus/ros/drone_command_handler/manifest.l /home/mathias/git/ai4/devel/share/roseus/ros/drone_command_handler/manifest.l
+/home/mathias/git/ai4/devel/.private/drone_command_handler/share/roseus/ros/drone_command_handler/srv/setpoint.l /home/mathias/git/ai4/devel/share/roseus/ros/drone_command_handler/srv/setpoint.l
+/home/mathias/git/ai4/devel/.private/drone_command_handler/share/common-lisp/ros/drone_command_handler/srv/_package_setpoint.lisp /home/mathias/git/ai4/devel/share/common-lisp/ros/drone_command_handler/srv/_package_setpoint.lisp
+/home/mathias/git/ai4/devel/.private/drone_command_handler/share/common-lisp/ros/drone_command_handler/srv/_package.lisp /home/mathias/git/ai4/devel/share/common-lisp/ros/drone_command_handler/srv/_package.lisp
+/home/mathias/git/ai4/devel/.private/drone_command_handler/share/common-lisp/ros/drone_command_handler/srv/drone_command_handler-srv.asd /home/mathias/git/ai4/devel/share/common-lisp/ros/drone_command_handler/srv/drone_command_handler-srv.asd
+/home/mathias/git/ai4/devel/.private/drone_command_handler/share/common-lisp/ros/drone_command_handler/srv/setpoint.lisp /home/mathias/git/ai4/devel/share/common-lisp/ros/drone_command_handler/srv/setpoint.lisp
+/home/mathias/git/ai4/devel/.private/drone_command_handler/share/gennodejs/ros/drone_command_handler/_index.js /home/mathias/git/ai4/devel/share/gennodejs/ros/drone_command_handler/_index.js
+/home/mathias/git/ai4/devel/.private/drone_command_handler/share/gennodejs/ros/drone_command_handler/srv/_index.js /home/mathias/git/ai4/devel/share/gennodejs/ros/drone_command_handler/srv/_index.js
+/home/mathias/git/ai4/devel/.private/drone_command_handler/share/gennodejs/ros/drone_command_handler/srv/setpoint.js /home/mathias/git/ai4/devel/share/gennodejs/ros/drone_command_handler/srv/setpoint.js
+/home/mathias/git/ai4/devel/.private/drone_command_handler/share/drone_command_handler/cmake/drone_command_handlerConfig-version.cmake /home/mathias/git/ai4/devel/share/drone_command_handler/cmake/drone_command_handlerConfig-version.cmake
+/home/mathias/git/ai4/devel/.private/drone_command_handler/share/drone_command_handler/cmake/drone_command_handlerConfig.cmake /home/mathias/git/ai4/devel/share/drone_command_handler/cmake/drone_command_handlerConfig.cmake
+/home/mathias/git/ai4/devel/.private/drone_command_handler/share/drone_command_handler/cmake/drone_command_handler-msg-extras.cmake /home/mathias/git/ai4/devel/share/drone_command_handler/cmake/drone_command_handler-msg-extras.cmake
+/home/mathias/git/ai4/devel/.private/drone_command_handler/share/drone_command_handler/cmake/drone_command_handler-msg-paths.cmake /home/mathias/git/ai4/devel/share/drone_command_handler/cmake/drone_command_handler-msg-paths.cmake

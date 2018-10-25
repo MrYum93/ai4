@@ -1,0 +1,4 @@
+Symlinking /home/mathias/git/ai4/devel/lib/pkgconfig/node_monitor.pc
+Symlinking /home/mathias/git/ai4/devel/lib/python2.7/dist-packages/node_monitor/__init__.py
+Symlinking /home/mathias/git/ai4/devel/share/node_monitor/cmake/node_monitorConfig-version.cmake
+Symlinking /home/mathias/git/ai4/devel/share/node_monitor/cmake/node_monitorConfig.cmake

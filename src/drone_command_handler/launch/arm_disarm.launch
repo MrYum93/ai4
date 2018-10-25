@@ -1,0 +1,12 @@
+<!-- launch file -->
+
+<launch>
+
+	<!-- node pkg="rosbag" name="rosbag_record" type="record" args="-a"/ -->
+
+	<node pkg="drone_command_handler" type="arm_disarm_drone.py" name="arm_disarm_drone" output="screen">
+		<param name="arm" value="1"/>
+	</node>
+
+</launch>
+

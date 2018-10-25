@@ -1,0 +1,19 @@
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_modes
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_local_setpoint
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_attitude
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_local_ned_pos
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_msg
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_pos
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_status
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 17%] Built target mavlink_lora_generate_messages_nodejs
+[ 36%] Built target mavlink_lora_generate_messages_py
+[ 53%] Built target mavlink_lora_generate_messages_cpp
+[ 73%] Built target mavlink_lora_generate_messages_eus
+[ 90%] Built target mavlink_lora_generate_messages_lisp
+[100%] Built target mavlink_lora_node
+[100%] Built target mavlink_lora_generate_messages

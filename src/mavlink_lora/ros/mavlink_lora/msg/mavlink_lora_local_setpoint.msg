@@ -1,0 +1,15 @@
+Header header
+uint64 time_boot_ms
+float64 x
+float64 y
+float64 z
+float64 vx
+float64 vy
+float64 vz
+float64 afx
+float64 afy
+float64 afz
+float64 yaw
+float64 yaw_rate
+uint16 type_mask
+uint8 coordinate_frame
